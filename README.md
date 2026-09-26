@@ -48,9 +48,7 @@ Customer_Segmentation/
 - Jupyter (to run the notebooks)
 
 Install all dependencies with:
-
 pip install -r requirements.txt
----
 
 ## Author
 
