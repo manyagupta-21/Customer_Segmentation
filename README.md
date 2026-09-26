@@ -6,10 +6,10 @@ This project segments customers based on their demographics, purchasing behavior
 
 ## 🔑 Key Features
 
-- Data preprocessing and feature engineering, including handling of missing values and outliers across demographic and behavioural fields
-- Principal Component Analysis (PCA) for dimensionality reduction, condensing 29 original features into 2–3 principal components for tractable clustering and visualization
-- Clustering techniques compared across **K-Means, Hierarchical Clustering, and Gaussian Mixture Models (GMM)**, including a modified K-Means variant using cosine similarity
-- Evaluation of clustering performance using Silhouette Score to select the best-performing method
+- Data preprocessing and feature engineering, including handling of missing values and outliers across demographic and behavioural fields.
+- Principal Component Analysis (PCA) for dimensionality reduction, condensing 29 original features into 2-3 principal components for tractable clustering and visualization.
+- Clustering techniques compared across **K-Means, Hierarchical Clustering, and Gaussian Mixture Models (GMM)**, including a modified K-Means variant using cosine similarity.
+- Evaluation of clustering performance using Silhouette Score to select the best-performing method.
 
 ---
 
@@ -23,9 +23,9 @@ This project segments customers based on their demographics, purchasing behavior
 
 ## 🏆 Results
 
-- Reduced the original 29 features to **2–3 principal components** via PCA while retaining the structure needed to separate customer groups
-- Compared K-Means, Hierarchical Clustering, and GMM; the best configuration produced **3 distinct customer segments** with a **Silhouette Score of 0.71**, indicating well-separated, cohesive clusters
-- The resulting segments support downstream use cases like targeted marketing and campaign personalization
+- Reduced the original 29 features to **2-3 principal components** via PCA while retaining the structure needed to separate customer groups.
+- Compared K-Means, Hierarchical Clustering, and GMM; the best configuration produced **3 distinct customer segments** with a **Silhouette Score of 0.71**, indicating well-separated, cohesive clusters.
+- The resulting segments support downstream use cases like targeted marketing and campaign personalization.
 
 ---
 
