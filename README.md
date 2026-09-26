@@ -45,13 +45,11 @@ Customer_Segmentation/
 - Python 3.x
 - NumPy, Pandas, Matplotlib, Seaborn
 - Scikit-learn
+- Jupyter (to run the notebooks)
 
-Install the Python dependencies with:
+Install all dependencies with:
 
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-```
-
+pip install -r requirements.txt
 ---
 
 ## Author
